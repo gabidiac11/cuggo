@@ -1,0 +1,38 @@
+﻿gfdsafs
+VOSPROIZVEDENIYe
+Igrat' v odinochku
+V INSTRUKTSII
+YAZYK
+SCHETA
+SLEDUYUSHCHIY
+PRED
+EXIT
+MENYU
+OTMENA
+Vyberite, gde vy ostavili
+Kolichestvo strok (maksimum 40, nazhmite Enter dlya vstavki):
+Kolichestvo stolbtsov (maksimum 40, nazhmite Enter dlya vstavki):
+Imya igroka 1 (maksimum 10 simvolov dlya dliny teksta):
+Imya igroka2 (maksimum 10 simvolov dliny teksta):
+Vyberite tsvet monet igroka1:
+Vyberite tsvet igroka player2:
+0 slishkom malo!
+Slishkom mnogo tsifr!
+Tol'ko tsifry!
+Chislo slishkom bol'shoye!
+Imya uzhe zanyato!
+Vy ne mozhete dobavit' bol'she simvolov!
+Net igrokov yeshche ...
+POBEDY
+ravenstva
+IGROK _1
+IGROK _2
+CUGO - eto igra, v kotoruyu igrayut 2 protivnika, v ikh rasporyazhenii 8 figur.
+On imeyet 2 khoda, i tsel' igroka - okruzhit' vse ili chast' vrazheskikh figur, pomestiv svoi sobstvennyye v yacheyki (1-y raund)
+ili peremeshchaya ikh vo 2-y raund. Vozmozhno, chto igra zakanchivayetsya drou (tol'ko v pervom raunde), kogda oba igroka okruzheny
+odinakovoye kolichestvo figur protivnika.
+Pobeditel'
+RESTART
+IGROK 1
+IGROK 2
+VSEGO DVIZHETSYA

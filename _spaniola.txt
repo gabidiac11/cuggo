@@ -1,0 +1,38 @@
+﻿gfdsafs
+JUGAR
+JUGADA INDIVIDUAL
+INSTRUCCIONES
+IDIOMA
+PUNTUACIONES
+SIG
+Ant
+SALIDA
+MENÚ
+DES
+Escoge donde dejes
+El número de líneas (un máximo de 40, presione Enter para insertar):
+El número de columnas (un máximo de 40, presione Entrar para insertar):
+Nombre del jugador 1 (10 caracteres como longitud máxima de texto):
+Nombre del jugador 2 (10 caracteres como longitud máxima de texto):
+Elige el color de las piezas de player1:
+Elige el color de las piezas de player2:
+0 es demasiado pequeño!
+¡Demasiados dígitos!
+¡Sólo números!
+¡El número es demasiado grande!
+¡Nombre ya en uso!
+¡No puedes agregar más personajes!
+NO JUGADORES POR AHORA ...
+VICTORIAS
+Igualar
+Jug_1
+Jug_2
+CUGO es un juego jugado entre 2 oponentes, con 8 piezas cada uno a su disposición.
+Tiene 2 rondas, y el propósito del jugador es rodear algunas o todas las piezas del enemigo colocando las suyas en las celdas (1ª ronda)
+o moviéndolos en la 2da ronda. Es posible que el juego termine en un drow (solo en la primera ronda), cuando ambos jugadores rodean
+El mismo número de piezas del oponente.
+El ganador es 
+REINICIAR
+JUGADOR 1
+Jugador 2
+Movimientos totales

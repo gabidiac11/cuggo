@@ -1,0 +1,41 @@
+gfdsafs
+JOACA
+JOACA SINGUR
+INSTRUCTIUNI
+LIMBA
+SCORURI
+URM 
+ANT
+IESIRE
+MENIU
+REFA
+REINCEPE DE AICI
+Numar de linii ( maxim 40, apasati ENTER ca sa inserati ): 
+Numar de coloane ( maxim 40, apasati ENTER ca sa inserati ):
+Nume Jucator1: (10 maxim):
+Nume Jucator2: (10 maxim):
+Alege culoarea Jucatorului 1:
+Alege culoarea Jucatorului 2:
+0 e prea putin!
+Prea multe cifre!
+Scrie doar numere!
+Numarul e prea mare!
+Nume deja luat!
+Nu mai poti pune caractere in plus!
+NICIUN PLAYER INREGISTRAT...
+VICTORII
+REMIZA
+PL_1
+PL_2
+CUGO e un joc intre doi adversari cu un set de 8 piese pentru fiecare jucator.
+Jocul are doua runde iar scopul acestuia este de a incercui piesele adversarului prin inserari repetate ale pieselor(runda 1),
+sau mutari repetate(runda 2).Desigur,pot exista cazuri de remiza,atunci cand fiecare jucator a incercuit acelasi numar de piese
+ca si adversarul sau,caz posibil doar in prima runda.
+Castigatorul este 
+RESTART
+JUCATOR 1
+JUCATOR 2
+MUTARI TOTALE
+
+
+

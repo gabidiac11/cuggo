@@ -1,0 +1,38 @@
+﻿gfdsafs
+JOUER
+JOUER SEUL
+L'INSTRUCTIONS
+LA LANGUE
+LES SCORES
+SUIVANT
+PREV
+SORTIE
+MENU
+ANNULER
+Choisissez où vous êtes parti
+Le nombre de lignes (un maximum de 40, appuyez sur Entrée pour insérer):
+Le nombre de colonnes (un maximum de 40, appuyez sur Entrée pour insérer):
+Nom du joueur 1 (10 caractères maximum pour la longueur du texte):
+Nom du joueur2 (10 caractères maximum de longueur de texte):
+Choisissez la couleur des pièces du joueur1:
+Choisissez les pièces de joueur2 couleur:
+0 est trop petit!
+Trop de chiffres!
+Seulement les chiffres!
+Le nombre est trop grand!
+Nom déjà pris!
+Vous ne pouvez pas ajouter plus de caractères!
+Pas de joueurs pour l'instant ...
+VICTOIRES
+égalités
+JOUEUR _1
+JOUEUR _2
+CUGO est un jeu qui se joue entre 2 adversaires, avec 8 pièces à leur disposition.
+Il a 2 tours, et le but du joueur est d’entourer tout ou partie des pièces ennemies en plaçant les siennes dans des cellules (1er tour)
+ou en les déplaçant au 2e tour. Il est possible que le jeu se termine par un drow (uniquement au 1er tour), lorsque les deux joueurs sont entourés
+le même nombre de pièces de l'adversaire.
+Le gagnant est 
+REDÉMARRER
+JOUEUR 1
+JOUEUR 2
+TOUS LES DÉPLACEMENTS

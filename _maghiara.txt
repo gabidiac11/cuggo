@@ -1,0 +1,38 @@
+﻿gfdsafs
+JÁTÉK
+EGYES LEJÁTSZÁS
+UTASÍTÁS
+NYELV
+SCORES
+KÖVETKEZŐ
+Elő
+KIJÁRAT
+MENÜ
+VISS
+PICK WHERE YFT LEFT
+A sorok száma (maximum 40, nyomja meg az Entert a beszúráshoz):
+Az oszlopok száma (maximum 40, nyomja meg az Entert a beszúráshoz):
+Játékos1 neve (10 karakter maximális szöveghossz):
+Játékos2 neve (10 karakter maximális szöveghosszként):
+Pick player1 darabjai színe:
+Pick player2 darab szín:
+0 túl kicsi!
+Túl sok számjegy!
+Csak számok!
+A szám túl nagy!
+Név már foglalt!
+Nem adhat hozzá több karaktert!
+NEM JÁTÉKOSOK MOST ...
+Eredmények
+drow
+PL_1
+PL_2
+A CUGO egy játék, amelyet két ellenfél között játszanak, 8 darab mindegyikük rendelkezésére áll.
+Két fordulója van, és a játékos célja, hogy körülvegye néhány vagy az ellenség darabjait azáltal, hogy saját celláit helyezi el (1. forduló)
+vagy a 2. fordulóban. Lehetséges, hogy a játék egy drow-ban (csak az első fordulóban) ér véget, amikor mindkét játékos körülveszi
+ugyanazt az ellenfél darabszámát.
+A győztes
+ÚJRAKEZD
+LEJÁTSZÓ 1
+LEJÁTSZÓ 2
+MINDEN MOVES

@@ -1,0 +1,12 @@
+0
+_romana.txt
+_suedeza.txt
+_engleza.txt
+_italiana.txt
+_franceza.txt
+_spaniola.txt
+_germana.txt
+_portugheza.txt
+_rusa.txt
+_somaleza.txt
+_maghiara.txt

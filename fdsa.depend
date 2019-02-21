@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1547394125 source:c:\users\gabi\documents\new folder (4)\fdsa\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<mmsystem.h>
+	<windows.h>
+	<fstream>
+

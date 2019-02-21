@@ -1,0 +1,37 @@
+﻿SPELA
+SINGELSPEL
+INSTRUKTIONER
+SPRÅK
+POÄNG
+NÄSTA
+TID
+UTG
+MENY
+ÅNGRA
+VÄLJ VAR DU LÄMNADE
+antalet rader (högst 40, tryck på enter för att infoga):
+antalet kolumner (högst 40, tryck enter för att infoga):
+spelare 1 namn (10 tecken som max textlängd):
+spelare 1 namn (10 tecken som max textlängd):
+plocka spelare 1 bitar färg:
+plocka spelarens 2 bitar färg:
+0 är alldeles för liten!
+för många siffror!
+bara siffror!
+numret är för stort!
+namnet är redan taget!
+du kan inte lägga till fler tecken!
+INGA SPELARE FÖR NU ...
+SEGRAR
+DROW
+SPELARE 1
+SPELARE 2
+cugo är ett spel som spelas mellan 2 motståndare, med 8 stycken till sitt förfogande.
+den har 2 rundor, och syftet med spelaren är att omge några eller alla fiendens bitar genom att placera sin egen i celler (1: a omgången)
+eller genom att flytta dem i 2: a omgången. det är möjligt för spelet att hamna i en drow (endast i 1: a omgången), när båda spelarna omringade
+samma antal motståndarens bitar.
+vinnaren är 
+omstart
+SPELARE 1
+SPELARE 2
+Allt rör sig

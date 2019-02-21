@@ -1,0 +1,38 @@
+﻿gfdsafs
+SPELEN
+ENKEL SPEL
+INSTRUCTIES
+TAAL
+SCORES
+VOLG
+VOOR
+UITGANG
+MENU
+ONG
+KIES WAAR JE BENT GEBLEVEN
+het aantal regels (maximaal 40, druk op enter om in te voegen):
+het aantal kolommen (maximaal 40, druk op enter om in te voegen):
+naam speler 1 (10 tekens als maximale tekstlengte):
+naam speler 1 (10 tekens als maximale tekstlengte):
+kies de kleur van speler 1's stuk:
+kies de kleur van speler 2:
+0 is veel te klein!
+te veel cijfers!
+alleen getallen!
+het aantal is te groot!
+naam al in gebruik!
+je kunt niet meer tekens toevoegen!
+GEEN SPELERS VOOR NU ...
+OVERWINNINGEN
+DROW
+SPELER 1
+SPELER 2
+cugo is een spel dat gespeeld wordt tussen 2 tegenstanders, elk met 8 stukken.
+het heeft 2 ronden en het doel van de speler is om enkele of alle stukken van de vijand te omringen door zijn eigen in cellen te plaatsen (1e ronde)
+of door ze in de 2e ronde te verplaatsen. het is mogelijk dat de game in een laatste fase eindigt (alleen in de 1e ronde), wanneer beide spelers omsingeld zijn
+hetzelfde aantal stukken van de tegenstander.
+de winnaar is 
+NEUSTART
+SPIELER 1
+SPIELER 2
+ALLE BEWEGT

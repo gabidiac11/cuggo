@@ -1,0 +1,38 @@
+﻿gfdsafs
+GIOCARE
+GIOCO SINGOLO
+ISTRUZIONI
+LINGUAGGIO
+PUNTEGGI
+PROS
+PREV
+USCITA
+MENU
+DISFARE
+SCEGLI QUI SEI LASCIATO
+Il numero di righe (massimo 40, premere Invio per inserire):
+Il numero di colonne (massimo 40, premere Invio per inserire):
+Nome del giocatore1 (10 caratteri come lunghezza massima del testo):
+Nome di Player2 (10 caratteri come lunghezza massima del testo):
+Scegli il colore dei pezzi del giocatore1:
+Scegli il colore dei pezzi di player2:
+0 è troppo piccolo!
+Troppe cifre!
+Solo numeri!
+Il numero è troppo grande!
+Username già in uso!
+Non puoi aggiungere più personaggi!
+NESSUN GIOCATORE PER ORA ...
+VITTORIE
+uguaglianze
+GIOCATORE _1
+GIOCATORE _2
+CUGO è una partita giocata tra 2 avversari, con 8 pezzi ciascuno a loro disposizione.
+Ha 2 round, e lo scopo del giocatore è quello di circondare alcuni o tutti i pezzi del nemico posizionando il suo nelle celle (1 ° round)
+o spostandoli nel 2 ° round. È possibile che il gioco finisca in un drow (solo nel 1 ° round), quando entrambi i giocatori sono circondati
+lo stesso numero di pezzi dell'avversario.
+Il vincitore è 
+RICOMINCIA
+GIOCATORE 1
+GIOCATORE 2
+TUTTI I MOVIMENTI

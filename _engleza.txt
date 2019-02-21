@@ -1,0 +1,41 @@
+gfdsafs
+PLAY
+SINGLE PLAY
+INSTRUCTIONS
+LANGUAGE
+SCORES
+NEXT 
+PREV
+EXIT
+MENU
+UNDO
+PICK FROM HERE
+The number of lines (a maximum of 40, press Enter to insert): 
+The number of columns (a maximum of 40, press Enter to insert):
+Player1's name (10 characters as maximum text length):
+Player2's name (10 characters as maximum text length):
+Pick player1's pieces color:
+Pick player2's pieces color:
+0 is way too small!
+Too MANY digits!
+Only numbers!
+The number is too big!
+Name already taken!
+You can't add more characters!
+NO PLAYERS FOR NOW...
+VICTORIES
+DROW
+PL_1
+PL_2
+CUGO is a game played between 2 opponents, with 8 pieces each at their disposal.
+It has 2 rounds, and the purpose of the player is surrounding some or all the enemy's pieces by placing his own in cells ( 1st round) 
+or by moving them in the 2nd round. It's possible for the game to end up in a drow (only in the 1st round), when both players surrounded 
+the same number of the opponent's pieces.
+The winner is 
+RESTART
+PLAYER 1
+PLAYER 2
+TOTAL MOVES
+
+
+
